@@ -1,0 +1,8 @@
+h1{color: hsl(0, 95%, 49%);}
+h2{color: blue;}
+a{color: rgb(117, 131, 18);}
+body{background-color: aqua;}
+img{
+    width: 300px;
+}
+.Big_Size { font-size: 2rem;}
